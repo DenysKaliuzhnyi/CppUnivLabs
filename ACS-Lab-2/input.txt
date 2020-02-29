@@ -1,0 +1,4 @@
+add R1 15 4
+sub R3 R1 -20
+mult R3 50 R2
+div R4 552 -2
